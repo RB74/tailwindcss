@@ -1,5 +1,4 @@
 <p align="center">
-    <a href="https://tailwindcss.com/" target="_blank"><img width="200" src="https://tailwindcss.com/img/tailwind.svg"></a><br>
     A utility-first CSS framework for rapidly building custom user interfaces.
 </p>
 
